@@ -1,0 +1,39 @@
+Rules
+==================
+
+    | The rules of tic-tac-toe is simple. You will play against your friend,
+      with signs X assigned to you and O to them. Who ever gets three signs connected
+      in a row first wins. It can be horizontal, vertical, diagonal. The game
+      could end up draw if no one managed to get three signs connected.
+
+      +=============+
+      || X | O |   ||
+      ||---|---|---||
+      ||   | X |   ||     Diagonal Match, X wins.
+      ||---|---|---||
+      || O |   | X ||
+      +=============+
+
+      +=============+
+      || O |   |   ||
+      ||---|---|---||
+      || O | X |   ||     Vertical Match, O wins.
+      ||---|---|---||
+      || O | X | X ||
+      +=============+
+
+      +=============+
+      || O |   |   ||
+      ||---|---|---||
+      || X | X | X ||     Horizontal Match, X wins.
+      ||---|---|---||
+      || O | X | O ||
+      +=============+
+
+      +=============+
+      || O | O | X ||
+      ||---|---|---||
+      || X | X | O ||     No Match, draw.
+      ||---|---|---||
+      || O | X | X ||
+      +=============+

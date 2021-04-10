@@ -1,0 +1,14 @@
+About
+==================
+
+    +=============+
+    || X | O |   ||
+    ||---|---|---||     Tic-Tac-Toe v1.0(no-ai)
+    ||   | X |   ||     by: darylldancc
+    ||---|---|---||     /my first project/
+    || O |   | X ||
+    +=============+
+
+    | My very first java project. I don't know how to create a
+      GUI yet but I am getting there. I will be a great software
+      engineer soon!

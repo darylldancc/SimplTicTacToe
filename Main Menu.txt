@@ -1,0 +1,13 @@
+    +=============+
+    || X | O |   ||
+    ||---|---|---||     Tic-Tac-Toe v1.0(no-ai)
+    ||   | X |   ||     by: darylldancc
+    ||---|---|---||
+    || O |   | X ||
+    +=============+
+
+    | Select from the following options below.
+
+    1 - Play
+    2 - Help
+    3 - Exit

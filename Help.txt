@@ -1,0 +1,17 @@
++=============+
+|| X | O |   ||
+||---|---|---||     Tic-Tac-Toe v1.0(no-ai)
+||   | X |   ||     by: darylldancc
+||---|---|---||     /my first project/
+|| O |   | X ||
++=============+
+
+Help
+==================
+
+    | Type the number you wanted to get help on
+
+    1 - Controls
+    2 - Rules
+    3 - About/Source Code
+    4 - Return to Main Menu
